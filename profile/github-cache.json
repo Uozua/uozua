@@ -1,0 +1,32 @@
+{
+  "user": {
+    "login": "Uozua",
+    "public_repos": 1,
+    "followers": 0,
+    "following": 0
+  },
+  "repos": {
+    "LightningGrim": {
+      "name": "LightningGrim",
+      "full_name": "Uozua/LightningGrim",
+      "html_url": "https://github.com/Uozua/LightningGrim",
+      "description": "Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, \"bypassable\" 1.8-1.20 anticheat.",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-08-09T12:53:53Z",
+      "topics": []
+    },
+    "Uozua/LightningGrim": {
+      "name": "LightningGrim",
+      "full_name": "Uozua/LightningGrim",
+      "html_url": "https://github.com/Uozua/LightningGrim",
+      "description": "Fully async, multithreaded, predictive, open source, 3.01 reach, 1.005 timer, 0.01% speed, 99.99% antikb, \"bypassable\" 1.8-1.20 anticheat.",
+      "language": null,
+      "stargazers_count": 0,
+      "forks_count": 0,
+      "updated_at": "2026-08-09T12:53:53Z",
+      "topics": []
+    }
+  }
+}
