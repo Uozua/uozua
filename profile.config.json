@@ -2,23 +2,8 @@
   "$schema": "./profile.config.schema.json",
   "github": {
     "username": "Uozua",
-    "featuredRepos": [
-      {
-        "repo": "Uozua/LightningGrim",
-        "solidButton": true,
-        "ctaLabel": "View source",
-        "ctaArrow": null,
-        "showRepoPath": false,
-        "projectUrl": "",
-        "showBanner": true,
-        "autoOgImage": true,
-        "ogSourceUrl": "",
-        "bannerUrl": ""
-      }
-    ],
-    "moreRepos": [
-      "LightningGrim"
-    ]
+    "featuredRepos": [],
+    "moreRepos": []
   },
   "projects": {
     "bannersEnabled": true,
@@ -29,29 +14,12 @@
   "profile": {
     "name": "Uoz",
     "handle": "@Uozua",
-    "role": "web, Java & Minecraft",
-    "intro": "Building for the web and Minecraft servers.",
-    "status": "web projects & Minecraft server tools",
-    "focus": "web / Java",
+    "role": "Software Engineer",
+    "intro": "Building software and gameserver experiences.",
+    "status": "Working on personal projects",
+    "focus": "Web / Java ",
     "state": "active",
-    "links": [
-      {
-        "label": "github",
-        "url": "https://github.com/Uozua"
-      },
-      {
-        "label": "LightningGrim",
-        "url": "https://github.com/Uozua/LightningGrim"
-      },
-      {
-        "label": "repos",
-        "url": "https://github.com/Uozua?tab=repositories"
-      },
-      {
-        "label": "config",
-        "url": "https://github.com/Uozua/Uozua/blob/main/profile.config.json"
-      }
-    ]
+    "links": []
   },
   "theme": {
     "page": "#181818",
@@ -62,8 +30,8 @@
     "text3": "#999999",
     "line": "#343434",
     "lineFaint": "#292929",
-    "accent": "#ffd400",
-    "accentText": "#ffd400",
+    "accent": "#ff9afa",
+    "accentText": "#ff9afa",
     "selected": "#3a3107",
     "ok": "#c7c7c7",
     "warn": "#b0b0b0",
@@ -73,9 +41,9 @@
       "#121212",
       "#343434",
       "#5a5a5a",
-      "#786700",
-      "#c9a900",
-      "#ffd400"
+      "#ff9aaa",
+      "#ff9ae0",
+      "#ff9afa"
     ]
   },
   "motion": {
@@ -96,6 +64,7 @@
     "width": 880,
     "projectColumns": 1,
     "showStats": true,
-    "showUpdatedAt": true
+    "showUpdatedAt": true,
+    "headerOnly": true
   }
 }
